@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cstdlib>
-#include<conio.h>
+#include<iostream.h>
 #include<windows.h>
 using namespace std;
 bool gameover;
